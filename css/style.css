@@ -1,0 +1,12 @@
+body {
+    background: rgb(59, 59, 59);
+    color: white;
+}
+
+.botao:hover{
+    cursor: pointer;
+}
+
+.background-box{
+    background: rgb(129, 129, 129);
+}
